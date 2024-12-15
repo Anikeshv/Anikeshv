@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anikeshv
 - 👀 I have interest in Tech field specially in programming.
-- 🌱 I’m currently learning C++
-- and i know python as my first programming language.
+-   and i know python as my first programming language.
 - 💞️ I’m looking to contribute in other peoples code and in opensource too.
 - And also i am looking forward to talk to new people and collaborate with them.
 - 📫 You can find me on instagram @Anikeshv26
